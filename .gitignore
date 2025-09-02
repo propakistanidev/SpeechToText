@@ -1,0 +1,38 @@
+# .gitignore file for Whisper + Claude Transcription Project
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Gradio cache and temp files
+gradio_cached_examples/
+*.lock
+
+# PyTorch / Transformers cache
+~/.cache/
+*.pt
+*.bin
