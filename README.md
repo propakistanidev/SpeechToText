@@ -1,7 +1,3 @@
----
-license: mit
----
-
 # Real-time Transcription with Whisper (HF) + Claude
 
 This project provides a **speech-to-text pipeline** using [Hugging Face Whisper](https://huggingface.co/models?search=whisper) for transcription and optionally [Claude](https://www.anthropic.com/claude) for refinement/summarization.  
