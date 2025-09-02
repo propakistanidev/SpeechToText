@@ -2,7 +2,7 @@
 
 # Python
 __pycache__/
-*.py[cod]
+
 *.so
 *.egg
 *.egg-info/
@@ -22,8 +22,7 @@ venv/
 .ipynb_checkpoints
 
 # System files
-.DS_Store
-Thumbs.db
+
 
 # Logs
 *.log
